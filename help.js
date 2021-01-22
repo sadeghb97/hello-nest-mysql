@@ -14,4 +14,6 @@ all requests started with localhost:3000/try1/
 
 /*
 sudo npm install --save @nestjs/typeorm typeorm mysql
+agar database vojud nadashte bashad error migirim
+ama agar jadval vojud nadashte bashad khodkar sakhte khahad shod
 */
