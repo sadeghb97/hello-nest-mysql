@@ -11,3 +11,7 @@ nest generate controller try1
 nest generate service try1
 all requests started with localhost:3000/try1/
 */
+
+/*
+sudo npm install --save @nestjs/typeorm typeorm mysql
+*/
